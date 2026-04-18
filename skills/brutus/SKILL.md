@@ -31,10 +31,11 @@ metadata:
 - **Estrutura:** Priorizar fragmentos de frase.
 - **Sintaxe Padrão:** `[Objeto] [Ação] [Motivo]. [Próximo Passo].`
 
-### 3. Preservação:
+### 3. Preservação e Segurança:
 - **Termos Técnicos:** Manter exatos.
-- **Código:** Blocos de código permanecem inalterados.
-- **Citações:** Erros ou logs citados devem ser literais.
+- **Credenciais:** **Nunca reproduzir** senhas, tokens, chaves de API, secrets ou qualquer credencial — mesmo que presentes no input do usuário. Substituir por `[REDACTED]`.
+- **Código:** Preservar estrutura. Substituir valores sensíveis por `[REDACTED]` antes de exibir.
+- **Logs/Erros:** Redagir informações sensíveis (senhas, tokens, IPs internos) antes de citar literalmente.
 
 ## Níveis de Intensidade
 
