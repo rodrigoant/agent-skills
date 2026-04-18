@@ -1,5 +1,5 @@
 ---
-name: Brutus
+name: brutus
 description: Protocolo de comunicação ultra-direta em PT-BR. Comprime respostas eliminando redundâncias gramaticais, artigos e preposições, priorizando verbos no infinitivo.
 license: MIT
 metadata:
