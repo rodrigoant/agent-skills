@@ -42,19 +42,19 @@ Média: **~70% redução** sem perda de informação técnica.
 **Claude Code**
 
 ```
-/skills install rodrigoant/brutus
+/skills install https://github.com/rodrigoant/agent-skills --skill brutus
 ```
 
 **Cursor / Windsurf / Cline / Copilot**
 
 ```bash
-npx skills add rodrigoant/brutus
+npx skills add https://github.com/rodrigoant/agent-skills --skill brutus
 ```
 
 **Global (todos agentes)**
 
 ```bash
-npx skills add -g rodrigoant/brutus
+npx skills add -g https://github.com/rodrigoant/agent-skills --skill brutus
 ```
 
 ---
@@ -111,4 +111,4 @@ Português carrega ~30–40% de tokens estruturais que não transmitem informaç
 
 ## Licença
 
-MIT — [rodrigoant/brutus](https://github.com/rodrigoant/brutus)
+MIT — [rodrigoant/agent-skills](https://github.com/rodrigoant/agent-skills)

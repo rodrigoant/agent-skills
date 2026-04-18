@@ -21,7 +21,7 @@
 ## Instalação
 
 ```bash
-npx skills add rodrigoant/commit
+npx skills add https://github.com/rodrigoant/agent-skills --skill commit
 ```
 
 Abra o Claude Code e confirme que a skill aparece na lista:
