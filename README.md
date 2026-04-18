@@ -1,11 +1,11 @@
 # Agent Skills
 
-A collection of customized skills and configurations designed to enhance the capabilities of the agent assistant. This repository contains specialized behaviors and tools to streamline workflows, enforce communication styles, and automate repetitive tasks.
+A collection of customized skills and configurations designed to enhance the capabilities of the agent assistant. This repository contains specialized behaviors and tools to streamline workflows, enforce communication styles, and automate repetitive tasks.    
 
 ## Available Skills
 
-- **[Brutus](./brutus)**: A communication skill that enforces strict constraints—prioritizing brevity, technical precision, and the complete elimination of filler language.
-- **[Commit](./commit)**: A workflow skill that automates and standardizes git commit messages according to the project's Conventional Commits and Gitmoji requirements.
+- **[Brutus](./skills/brutus)**: A communication skill that enforces strict constraints—prioritizing brevity, technical precision, and the complete elimination of filler language.
+- **[Commit](./skills/commit)**: A workflow skill that automates and standardizes git commit messages according to the project's Conventional Commits and Gitmoji requirements.
 
 ## Usage
 
