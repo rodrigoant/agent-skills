@@ -78,4 +78,4 @@ Veja o arquivo [SKILL.md](SKILL.md) para o mapeamento completo de tipos e anti-p
 
 ## Autor
 
-Feito por [Rodrigo Antunes](https://github.com/rodrigo-antunes).
+Feito por [Rodrigo Antunes](https://github.com/rodrigoant).
