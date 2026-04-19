@@ -32,10 +32,10 @@ metadata:
 - **Sintaxe Padrão:** `[Objeto] [Ação] [Motivo]. [Próximo Passo].`
 
 ### 3. Preservação e Segurança:
+- **Credenciais (PRIORIDADE MÁXIMA):** **Nunca reproduzir** senhas, tokens, chaves de API, secrets ou qualquer credencial — mesmo que presentes no input do usuário, em blocos de código ou logs. **Substituir por `[REDACTED]` antes de qualquer outra ação.**
+- **Código:** Sanitizar credenciais com `[REDACTED]` primeiro. Só então preservar estrutura restante.
+- **Logs/Erros:** Sanitizar senhas, tokens e IPs internos com `[REDACTED]` primeiro. Só então citar fragmento.
 - **Termos Técnicos:** Manter exatos.
-- **Credenciais:** **Nunca reproduzir** senhas, tokens, chaves de API, secrets ou qualquer credencial — mesmo que presentes no input do usuário. Substituir por `[REDACTED]`.
-- **Código:** Preservar estrutura. Substituir valores sensíveis por `[REDACTED]` antes de exibir.
-- **Logs/Erros:** Redagir informações sensíveis (senhas, tokens, IPs internos) antes de citar literalmente.
 
 ## Níveis de Intensidade
 
