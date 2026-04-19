@@ -12,7 +12,7 @@ A collection of customized skills and configurations designed to enhance the cap
 Skills in this repository can be installed and updated using the skills CLI. For example:
 
 ```bash
-npx skills install <skill-path>
+npx skills add rodrigoant/agent-skills
 ```
 
 *(Note: Adjust the installation commands according to your specific environment and CLI tools.)*
