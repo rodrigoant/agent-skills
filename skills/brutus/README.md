@@ -1,18 +1,16 @@
 
 
 <p align="center">
-<img src="https://www.rodrigoantunes.me/bruto.png" alt="Alt text" title="a title" width="120" />
+<img src="https://www.rodrigoantunes.me/bruto.png" alt="brutus" title="brutus" width="120" />
 </p>
 
 <h1 align="center">
 brutus
 </h1>
 
-**por que usar muitos token quando poucos servir?**
+**Por que usar muitos token quando poucos fazem o trabalho?**
 
 Skill de agente IA que comprime respostas em português do Brasil removendo artigos, preposições e convertendo verbos ao infinitivo — sem perder substância técnica.
-
----
 
 ## 💰 Economia de tokens
 
@@ -106,9 +104,3 @@ Português carrega ~30–40% de tokens estruturais que não transmitem informaç
 - mais espaço no contexto pra código e dados
 - respostas mais rápidas
 - menos ruído cognitivo
-
----
-
-## Licença
-
-MIT — [rodrigoant/agent-skills](https://github.com/rodrigoant/agent-skills)

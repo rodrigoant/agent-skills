@@ -73,9 +73,3 @@ Veja o arquivo [SKILL.md](SKILL.md) para o mapeamento completo de tipos e anti-p
 
 - [Claude Code](https://claude.ai/code) instalado
 - Git inicializado no projeto
-
----
-
-## Autor
-
-Feito por [Rodrigo Antunes](https://github.com/rodrigoant).
